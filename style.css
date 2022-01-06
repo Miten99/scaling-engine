@@ -1,0 +1,35 @@
+body {
+    color: white;
+    background-size: cover;
+    background-position: center;
+}
+
+.heading_div {
+    width:80%;
+    font-size: 22px;
+}
+
+
+.name_of_objects , #result_object_name , #result_object_accuracy
+{
+    color:yellow;
+
+}
+#camera{
+    border:2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+
+.myDiv {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+  }
+
+.heading_div {
+    margin-left: 276px;
+}
